@@ -6,14 +6,13 @@ public class IfStatement {
 		// TODO Auto-generated method stub
 		int a = 20;
 		int b = 20;
-		
-		if ( a < b ) {
+
+		if (a < b) {
 			System.out.println("a is greater than b");
 		} else if (a == b) {
 			System.out.println("a equals to b");
-		}else {
+		} else {
 			System.out.println("a is less than b");
-
 		}
 	}
 
